@@ -14,7 +14,7 @@ app.listen(port, () => {
       method: 'GET',
       headers: {
         'X-RapidAPI-Host': 'pokedex2.p.rapidapi.com',
-        'X-RapidAPI-Key': 'cf23f14831mshf1f092e0e369c5dp1473dbjsn3cf729a160dc'
+        'X-RapidAPI-Key': 'APIKEY'
       }
     };
     
